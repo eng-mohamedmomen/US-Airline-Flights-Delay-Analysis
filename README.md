@@ -23,8 +23,4 @@ This project analyzes a real-world US airline flights dataset to explore delay p
 - Delay patterns vary significantly by route and airport
 
 ## 📁 Dataset
-The dataset contains over 1,000,000 flight records and simulates real-world airline operations.
-
-## 🚀 How to Run
-```bash
-pip install -r requirements.txt
+kaggle link: https://www.kaggle.com/datasets/shaivyac/us-airline-dataset
