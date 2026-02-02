@@ -24,3 +24,12 @@ This project analyzes a real-world US airline flights dataset to explore delay p
 
 ## 📁 Dataset
 kaggle link: https://www.kaggle.com/datasets/shaivyac/us-airline-dataset
+
+## 🔗 LinkedIn Post
+
+This project was completed as part of the **Certified Data Science Professional (CDSP)** program at **Epsilon AI Academy Egypt**.
+
+I shared an overview of this project on LinkedIn, including objectives, tools used, and key insights.
+
+👉 **LinkedIn Post:**  
+[[Add your LinkedIn post link here]](https://www.linkedin.com/posts/mohamed-momen-010986277_github-eng-mohamedmomenus-airline-flights-delay-analysis-activity-7424173784019992576-wOcy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEOZDIwBBxwLSjfKQzO7ZeWdcoHLw-Jsp1A)
